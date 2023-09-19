@@ -1,38 +1,49 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Submit a new bug report
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
-**Describe the bug**
+## Issue Description
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Date and Time
+DD MM YYYY
 
-**Expected behavior**
+## Expected Behavior
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Actual Result
+A clear and concise description of what you expected to happen.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Severity
+- [x] [Low/Medium/High]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Environment
+- [x] DEV Server
+- [ ] PROD Server
 
-**Additional context**
-Add any other context about the problem here.
+## Device
+Desktop
+  - OS: [macOS/Windows/Linux]
+  - Browser: [Chrome/Firefox/Edge]
+  - Version: [1234]
+
+Smartphones
+  - OS: [Android/iOS]
+  - Browser: [Chrome/Firefox/Safari]
+  - Version: [1234]
+
+## Steps To Reproduce
+1. Login to T2 platform
+2. Go to '...'
+3. Click on '...'
+4. Error
+
+## Additional context
+Add any other context about the problem here or N/A.
+
+## Attachments
+Add any attachments here or N/A.
